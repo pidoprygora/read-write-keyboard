@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00112233-4455-6677-8899-aabbccddeeff}") = "WriterWin", "WriterWin\WriterWin.vcxproj", "{00112233-4455-6677-8899-aabbccddeeff}"
+EndProject
+Project("{11223344-5566-7788-99aa-bbccddeeff00}") = "ReaderWin", "ReaderWin\ReaderWin.vcxproj", "{11223344-5566-7788-99aa-bbccddeeff00}"
+EndProject
+Project("{22334455-6677-8899-aabb-ccddeeff0011}") = "KeyloggerWin", "KeyloggerWin\KeyloggerWin.vcxproj", "{22334455-6677-8899-aabb-ccddeeff0011}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00112233-4455-6677-8899-aabbccddeeff}.Debug|x64.ActiveCfg = Debug|x64
+		{00112233-4455-6677-8899-aabbccddeeff}.Debug|x64.Build.0 = Debug|x64
+		{11223344-5566-7788-99aa-bbccddeeff00}.Debug|x64.ActiveCfg = Debug|x64
+		{11223344-5566-7788-99aa-bbccddeeff00}.Debug|x64.Build.0 = Debug|x64
+		{22334455-6677-8899-aabb-ccddeeff0011}.Debug|x64.ActiveCfg = Debug|x64
+		{22334455-6677-8899-aabb-ccddeeff0011}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+EndGlobal
